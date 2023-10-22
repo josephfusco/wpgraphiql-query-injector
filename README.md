@@ -2,7 +2,7 @@
 
 ## Overview
 
-WPGraphiQL Query Injector is a WordPress plugin designed to inject custom GraphQL queries and variables into your WPGraphiQL editor. The plugin aims to populate the WPGraphiQL editor within a [WordPress Playground](https://developer.wordpress.org/playground/) environment.
+WPGraphiQL Query Injector is a WordPress plugin designed to inject custom GraphQL queries and variables into your WPGraphiQL editor. The plugin aims to provide a straightforward way to populate the WPGraphiQL editor within a [WordPress Playground](https://developer.wordpress.org/playground/) environment.
 
 ## Features
 
