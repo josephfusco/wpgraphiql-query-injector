@@ -1,4 +1,4 @@
-# WPGraphiQL Query Injector
+# WPGraphiQL Query Injector [![Latest Stable Version](https://poser.pugx.org/josephfusco/wpgraphiql-query-injector/v/stable)](https://packagist.org/packages/josephfusco/wpgraphiql-query-injector)
 
 ## Overview
 
