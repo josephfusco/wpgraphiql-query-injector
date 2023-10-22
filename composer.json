@@ -1,0 +1,12 @@
+{
+    "name": "josephfusco/wpgraphiql-query-injector",
+    "description": "Inject a custom query and variables into the WPGraphiQL editor",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "authors": [
+      {
+        "name": "Joseph Fusco"
+      }
+    ]
+  }
+  
